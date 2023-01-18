@@ -1,0 +1,72 @@
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+.back-ground {
+    background-color: black;
+}
+
+.color {
+    color: white;
+}
+
+.style-text {
+    font-size: 40px;
+}
+
+.dabl-style {
+    display: inline-block;
+    margin-top: 160px;
+}
+
+.style-for-photo1 {
+    display: inline-block;
+    width: 450px;
+    height: 120px;
+    margin-left: -105px;
+    margin-top: 70px;
+    margin-bottom: 10px;
+}
+
+.style-for-photo2 {
+    display: inline-block;
+    width: 450px;
+    height: 120px;
+    margin-left: -105px;
+    margin-top: 70px;
+    margin-bottom: 10px;
+}
+
+.style-for-photo3 {
+    display: inline-block;
+    width: 450px;
+    height: 120px;
+    margin-left: -105px;
+    margin-top: 70px;
+    margin-bottom: 10px;
+}
+
+.logo {
+    display: inline-block;
+    width: 275px;
+    height: 70px;
+}
+
+.logo:not(:first-of-type) {
+    margin-left: -190px;
+}
+
+.space {
+    font-weight: bold;
+    font-size: 45px;
+    margin-top: 0;
+    letter-spacing: 0.49em;
+    font-family: 'SF Pro'
+}
+
+.not-bot {
+    margin-bottom: 0;
+}
+
+
